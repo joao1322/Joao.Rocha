@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joao1322
 - 👀 I’m interested in aprender
-- 🌱 I’m currently learning Python HTML
+- 🌱 I’m currently learning Python e SQL
 - 💞️ I’m looking to collaborate on pequenos projetos para colaborar e desinvolver conhecimento
 - 📫 How to reach me joao198
 
